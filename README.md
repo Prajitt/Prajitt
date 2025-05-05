@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Electrical Bot developing](gitHub.com/prajitt)
 
-- 🌱 I’m currently learning **Next.js,django,etc..**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Angul,vue.js**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **prajitpsn@gmail.com**
 
